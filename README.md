@@ -37,8 +37,9 @@ Para o desenvolvimento desta landing page, utilizei o Figma como ferramenta de s
 
 - Hand-off de Design: Processo de leitura de protótipos para codificação.
 - Mobile First: Priorização da experiência em telas menores.
-- Acessibilidade: Uso de tags <header>, <main>, <section> e atributos alt.
+- Acessibilidade: Uso de tags e atributos alt.
 - Clean Code: Código indentado e modularizado para fácil manutenção.
+
 
 
 
