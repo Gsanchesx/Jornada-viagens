@@ -1,8 +1,8 @@
 ﻿# ✈️ Jornada Viagens
  Landing page responsiva desenvolvida para uma agência de viagens moderna, focada em apresentar destinos turísticos e pacotes exclusivos. Este projeto foi consolidado como o desafio final da trilha de Programação Web da Alura.
 O projeto simula a interface de uma agência real, focando em alta fidelidade visual, navegação fluida e semântica HTML, transformando um protótipo de alta fidelidade em uma aplicação funcional.
-
-# 🎯 Objetivo Acadêmico
+ 
+﻿# 🎯 Jornada Viagens
 
 Este projeto foi desenvolvido com o objetivo de:
 
@@ -40,5 +40,6 @@ Para o desenvolvimento desta landing page, utilizei o Figma como ferramenta de s
 - Mobile First: Priorização da experiência em telas menores.
 - Acessibilidade: Uso de tags <header>, <main>, <section> e atributos alt.
 - Clean Code: Código indentado e modularizado para fácil manutenção.
+
 
 
