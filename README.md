@@ -26,19 +26,20 @@ Para o desenvolvimento desta landing page, utilizei o Figma como ferramenta de s
 - Formulário de Newsletter: Estrutura pronta para captura de leads.
 - Rodapé Estruturado: Links de navegação e ícones de redes sociais.
 
-🛠 Tecnologias Utilizadas
+# 🛠 Tecnologias Utilizadas
 
 - HTML5: Estruturação semântica.
 - CSS3: Estilização avançada, variáveis e animações.
 - Figma: Ferramenta de inspeção de design e extração de assets.
 - Google Fonts: Tipografia personalizada definida no protótipo.
 
-🧠 Conceitos Aplicados
+# 🧠 Conceitos Aplicados
 
 - Hand-off de Design: Processo de leitura de protótipos para codificação.
 - Mobile First: Priorização da experiência em telas menores.
 - Acessibilidade: Uso de tags <header>, <main>, <section> e atributos alt.
 - Clean Code: Código indentado e modularizado para fácil manutenção.
+
 
 
 
